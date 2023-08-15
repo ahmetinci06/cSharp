@@ -1,0 +1,6 @@
+c:\users\prtkg\documents\visual studio 2013\Projects\odev\odev\bin\Debug\odev.exe.config
+c:\users\prtkg\documents\visual studio 2013\Projects\odev\odev\bin\Debug\odev.exe
+c:\users\prtkg\documents\visual studio 2013\Projects\odev\odev\bin\Debug\odev.pdb
+c:\users\prtkg\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.csprojResolveAssemblyReference.cache
+c:\users\prtkg\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.exe
+c:\users\prtkg\documents\visual studio 2013\Projects\odev\odev\obj\Debug\odev.pdb

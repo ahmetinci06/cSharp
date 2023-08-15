@@ -1,0 +1,6 @@
+c:\users\prtkg\documents\visual studio 2013\Projects\0_5_not\0_5_not\bin\Debug\0_5_not.exe.config
+c:\users\prtkg\documents\visual studio 2013\Projects\0_5_not\0_5_not\bin\Debug\0_5_not.exe
+c:\users\prtkg\documents\visual studio 2013\Projects\0_5_not\0_5_not\bin\Debug\0_5_not.pdb
+c:\users\prtkg\documents\visual studio 2013\Projects\0_5_not\0_5_not\obj\Debug\0_5_not.csprojResolveAssemblyReference.cache
+c:\users\prtkg\documents\visual studio 2013\Projects\0_5_not\0_5_not\obj\Debug\0_5_not.exe
+c:\users\prtkg\documents\visual studio 2013\Projects\0_5_not\0_5_not\obj\Debug\0_5_not.pdb

@@ -1,0 +1,6 @@
+c:\users\prtkg\documents\visual studio 2013\Projects\3-sayı\3-sayı\bin\Debug\3-sayı.exe.config
+c:\users\prtkg\documents\visual studio 2013\Projects\3-sayı\3-sayı\bin\Debug\3-sayı.exe
+c:\users\prtkg\documents\visual studio 2013\Projects\3-sayı\3-sayı\bin\Debug\3-sayı.pdb
+c:\users\prtkg\documents\visual studio 2013\Projects\3-sayı\3-sayı\obj\Debug\3-sayı.exe
+c:\users\prtkg\documents\visual studio 2013\Projects\3-sayı\3-sayı\obj\Debug\3-sayı.pdb
+c:\users\prtkg\documents\visual studio 2013\Projects\3-sayı\3-sayı\obj\Debug\3-sayı.csprojResolveAssemblyReference.cache

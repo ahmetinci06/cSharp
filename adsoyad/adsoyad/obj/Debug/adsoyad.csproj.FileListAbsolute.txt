@@ -1,0 +1,6 @@
+c:\users\prtkg\documents\visual studio 2013\Projects\adsoyad\adsoyad\bin\Debug\adsoyad.exe.config
+c:\users\prtkg\documents\visual studio 2013\Projects\adsoyad\adsoyad\bin\Debug\adsoyad.exe
+c:\users\prtkg\documents\visual studio 2013\Projects\adsoyad\adsoyad\bin\Debug\adsoyad.pdb
+c:\users\prtkg\documents\visual studio 2013\Projects\adsoyad\adsoyad\obj\Debug\adsoyad.exe
+c:\users\prtkg\documents\visual studio 2013\Projects\adsoyad\adsoyad\obj\Debug\adsoyad.pdb
+c:\users\prtkg\documents\visual studio 2013\Projects\adsoyad\adsoyad\obj\Debug\adsoyad.csprojResolveAssemblyReference.cache

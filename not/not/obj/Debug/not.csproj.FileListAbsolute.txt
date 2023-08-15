@@ -1,0 +1,6 @@
+c:\users\prtkg\documents\visual studio 2013\Projects\not\not\bin\Debug\not.exe.config
+c:\users\prtkg\documents\visual studio 2013\Projects\not\not\bin\Debug\not.exe
+c:\users\prtkg\documents\visual studio 2013\Projects\not\not\bin\Debug\not.pdb
+c:\users\prtkg\documents\visual studio 2013\Projects\not\not\obj\Debug\not.csprojResolveAssemblyReference.cache
+c:\users\prtkg\documents\visual studio 2013\Projects\not\not\obj\Debug\not.exe
+c:\users\prtkg\documents\visual studio 2013\Projects\not\not\obj\Debug\not.pdb
